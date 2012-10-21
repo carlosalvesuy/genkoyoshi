@@ -13,9 +13,9 @@ or too small, the page size is wrong, etc.
 I found some good ones from Ed Halley at http://halley.cc/nihon/patterns.html
 These genkouyoushi PDFs gives a nice faint space for furigana. 
 But, again. we will always want to have the posibility to adapt it
-to our own needs. So these Asymptote<http://asymptote.sourceforge.net/> scripts
-with several parameters allow the customization of the page size, the size of 
-the boxes, margins, line thickness and color, etc.
+to our own needs. So these `Asymptote <http://asymptote.sourceforge.net/>` 
+scripts with several parameters allow the customization of the page size, the
+size of the boxes, margins, line thickness and color, etc.
 
 
 ##Rules of use
