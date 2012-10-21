@@ -51,3 +51,13 @@ except acronyms like USA and NATO are often, but not always, written
 vertically by turning the page a quarter turn counterclockwise, so that
 when the page is viewed normally they are sideways. Each square can
 accommodate two Western characters.
+
+## Scripts usage
+
+Then assuming you have already installed asymptote, the following command will
+generate a PDF file that you can print or share:
+
+asy -f pdf traditional.asy
+
+Note that en this example we use the traditional.asy file, this may 
+differ in your case.
